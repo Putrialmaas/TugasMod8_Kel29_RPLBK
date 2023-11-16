@@ -1,0 +1,30 @@
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe.config
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.pdb
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.xml
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\TempConv.dll
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\bin\Debug\TempConv.pdb
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.AssemblyReference.cache
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Form1.resources
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Resources.resources
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.GenerateResource.cache
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CoreCompileInputs.cache
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CopyComplete
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.exe
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.xml
+C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.pdb
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe.config
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.pdb
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.xml
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\TempConv.dll
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\TempConv.pdb
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.AssemblyReference.cache
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Form1.resources
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Resources.resources
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.GenerateResource.cache
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CoreCompileInputs.cache
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CopyComplete
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.exe
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.xml
+D:\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.pdb
